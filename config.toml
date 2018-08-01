@@ -1,9 +1,8 @@
-baseurl                 = "https://hungom.github.io/om/"               # Your domain name. Must end with "/"
+baseurl                 = "https://hugom.github.io/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Call me Sam"
-themesDir				= "themes"
-publishDir				= "docs"
 theme                   = "sam"
+publishDir				= "docs"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
 # googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
