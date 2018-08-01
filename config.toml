@@ -1,7 +1,8 @@
 baseurl                 = "https://example.org/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
-title                   = "Call me Om"
-themeDir				= "docs"
+title                   = "Call me Sam"
+themesDir				= "themes"
+publishDir				= "docs"
 theme                   = "sam"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -14,7 +15,7 @@ pygmentsCodefences      = true
     homepage            = "main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "Call me Om, a passionate python web debeloper and writer."
+    footerText          = "Call me Sam, a theme for Hugo."
 
 # Metadata
     description         = "A new Hugo site."            # Max 160 characters show in search results
